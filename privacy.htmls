@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+
+<head>
+    <title>LEASEWALLET PRIVACY POLICY</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="images/favicon.ico">
+    <link rel="stylesheet" href="css/theme.css" type="text/css">
+    <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+    <script src="javascript/jquery-3.1.1.js"></script>
+    <script src="javascript/jquery.min.js"></script>
+    <script src="javascript/bootstrap.min.js"></script>
+</head>
+
+<body>
+<div class="container-fluid"><!--header section-->
+            <div  class="row">
+                <!--a href="/"-->
+                     <a href="/">
+                <!--<div class="pull-left"><h1  id="headerTxt">LeaseWallet</h1></div>-->
+                <img id="headerTxt" class="pull-left LogoImg" src="images/leasewalletLogo.png"  alt="image not found"/> 
+                </a>
+                <div class="headerFAQ hvr-pulse pull-right"><a class="noTextDecoration" href="FAQPage.html"><span  class="headerFAQText">FAQ</span></a></div>
+            </div><!--end row-->
+        </div><!--end header section-->
+
+    <h1 id="mainHeading">Privacy Policy</h1>
+    <div id="mainBody">
+        <h3 style="font-family:Raleway; font-size: 20px; font-weight: bold;">Dated 15 June 2017</h3>
+        <p>The <span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span> website is found at <a href="#" class="colorBlue">www.<span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">leasewallet</span>.com</a>            and can be accessed through a mobile, tablet or computer, it is referred to as the <span class="boldFont">“Site”</span>.</p>
+        <p>This Privacy Policy (<span class="boldFont">Policy</span>) applies to your use of the Site and explains how your personal information is collected, stored, used and disclosed by us <span class="boldFont">(‘We’, ‘us’ or ‘<span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span>’)</span>.
+        </p>
+        <p class="color"><span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span> operates in multiple jurisdictions and while this policy primarily refers to Australian law, We also seek to observe with the applicable privacy
+            legislation in the relevant jurisdictions.</p>
+        <p>Please take the time to familiarise yourself with this Policy, together with the Terms and Conditions of this Site.</p>
+        <p>If you have any questions about how <span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span> collects or uses personal information please refer to the Contact Details at the end of this policy.</p>
+        <p class="boldFont">1. SCOPE</p>
+        <p class="listSpaceLeft indentLeft">1.1 This Policy applies to the collection and use of personal information collected from, or about, Users of the Site by <span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span>.</p>
+        <p class="listSpaceLeft indentLeft">1.2 The personal information we collect, hold and disclose are necessary to provide the User with specific services and functions provided to the User via the Site, including in relation to their tenancy, maintenance issues, disputes, security
+            deposit claims, relating to a User’s leasehold interest in a property or properties and to continually improve the services we and third parties offer Users.</p>
+        <p class="listSpaceLeft indentLeft">1.3 It is a condition of your use of the Site that you read and agree to this Policy. If you do not agree to the collection of your personal information, please do not use the Site.</p>
+
+        <p class="boldFont">2. MODIFICATION</p>
+        <p class="listSpaceLeft indentLeft">2.1 This Policy may be varied, replaced or removed at the discretion of <span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span> without further notice to you. If this Policy is varied, replaced or
+            removed such changes will not affect personal information previously disclosed by you.</p>
+        <p class="listSpaceLeft indentLeft">2.2 It is your obligation to ensure that you have read, understood and agree to the most recent version of the Policy available on the Site. You agree and acknowledge that your continued use of the Site will amount to renewed acceptance of this
+            Policy as varied, replaced or removed and agree to be bound by the Policy on each occasion that you access the Site.</p>
+        <p class="boldFont">3. WHAT IS PERSONAL INFORMATION</p>
+        <p>In this Policy, ‘personal information’ has the same meaning as defined by section 6 of the <span class="italicsFont">Privacy Act 1988</span> (Cth) (<span class="boldFont">Privacy Act</span>) being: </p>
+        <p class="italicsFont">information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained,
+            from the information or opinion.</p>
+        <p class="boldFont">4. INDIVIDUALS – USE OF YOUR PERSONAL INFORMATION</p>
+        <p class="listSpaceLeft indentLeft">4.1 If you are an individual:</p>
+        <p class="listSpaceRight indentLeft">(a) that uses the Site; or</p>
+        <p class="listSpaceRight indentLeft">(b) instructs any other person to use the Site on your behalf,</p>
+        <p class="listSpaceLeft indentLeft">then this Policy will apply to the collection, holding, use and disclosure of your personal information.</p>
+        <p class="boldFont">5. ACKNOWLEDGEMENT</p>
+        <p class="listSpaceLeft indentLeft">5.1 It is a condition of your use of the Site that by continuing to use the Site you acknowledge and agree that you have had the opportunity to read this Policy and acknowledge and consent to <span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span>            collecting and holding personal information about you through your use of the Site and retaining and using your personal information subject to the terms of this Policy and the Terms and Conditions of this Site.</p>
+        <p class="listSpaceLeft indentLeft">5.2 Whilst <span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span> makes every effort to keep individuals’ personal information private as required by law, you acknowledge and agree that <span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span>            is not liable for, and you indemnify <span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span> against, any action, claim or damage of any kind resulting from the use of your personal information
+            (whether provided by you or on your behalf). </p>
+        <p class="listSpaceLeft indentLeft">5.3 You further acknowledge and agree that <span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span> makes no warranties or representations to you about the use of your personal information by third
+            parties as a result of your use of the Site, and you agree that your use of the Site and disclosure of your personal information is at your own risk.</p>
+        <p class="boldFont">6. PERSONAL INFORMATION COLLECTED</p>
+        <p class="listSpaceLeft indentLeft">6.1 <span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span> may collect the following personal information relating to individuals:</p>
+        <p class="listSpaceRight">• name; </p>
+        <p class="listSpaceRight">• email address; </p>
+        <p class="listSpaceRight">• address;</p>
+        <p class="listSpaceRight">• date of birth</p>
+        <p class="listSpaceRight">• information concerning properties in which a User of the Site has an interest;</p>
+        <p class="listSpaceRight">• payment details (such as credit card/debit card number and expiry date) provided at the time of the User’s use or purchase of services on the Site; and</p>
+        <p class="listSpaceRight">• details of your purchases of services from the Site and purchasing preferences.</p>
+        <p class="listSpaceLeft indentLeft">6.2 We collect, hold, use and disclose personal information to enable us to provide you with services and checking your eligibility for the services.</p>
+        <p class="listSpaceLeft indentLeft">6.3 We collect personal information about Users of the Site when Users register to use the Site, update their information on the Site, input information into the software platform operated via the Site, upload documentation to the Site, consent
+            to communicate with <span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span> and third parties and when Users purchase services from the Site.</p>
+        <p class="listSpaceLeft indentLeft">6.4 We may collect information about Users from third parties, including Landlords, Property Managers and organisations providing services via the Site.</p>
+        <p class="boldFont">7. USE AND DISCLOSURE</p>
+        <p class="listSpaceLeft indentLeft">7.1 <span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span> only <span class="colorRed underline">collects and stores personal information for the purpose of facilitating online communications between the User and third parties. However <span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span>            may</span> uses personal information for the purposes for which it was given to <span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span>, including to support, market and administer services to
+            registered Users.</p>
+
+        <p class="listSpaceLeft indentLeft">7.2 <span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span> does not disclose personal information collected online to other agencies, organisations or anyone else without the User’s consent unless
+            the individual would reasonably expect, or has been told, that information of that kind is usually passed to those agencies, organisations or individuals, or the disclosure is otherwise required or authorised by law.</p>
+        <p class="listSpaceLeft indentLeft">7.3 <span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span> may offer Users third party services via mail, telephone, email or SMS.</p>
+        <p class="listSpaceLeft indentLeft">7.4 In the course of providing services, it may be necessary to disclose Users’ personal information to service providers or organisations such as banking corporations that process your purchase via the Site. </p>
+        <p class="listSpaceLeft indentLeft">7.5 <span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span> may compile <span class="colorRed underline">de-identified</span> aggregated data in relation to your use of the Site and the services of
+            interest to you, which are considered non-personal information.</p>
+        <p><span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span> owns all right to, title and interest in the aggregated data.</p>
+        <p><span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span> will use the aggregated data for research or marketing purposes and may share the data with third parties. Where <span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span>            shares the data with third parties for commercial purposes, we will do so in a manner consistent with the Australian Privacy Principles <span class="colorRed underline">or the applicable privacy
+        law in the relevant jurisdiction.</span></p>
+        <p><span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span> is not responsible for the activities or conduct of third parties using such data.</p>
+        <p class="boldFont">8. ADVERTISING </p>
+        <p><span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span> may collect and use individuals’ personal information for the purposes of providing marketing and promotional material (for example, including
+            offers and promotions embedded in the Site) to Users of the Site.</p>
+        <p class="boldFont">9. HOW PERSONAL INFORMATION IS STORED</p>
+        <p><span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span> securely stores your personal information in electronic files
+            <span class="colorRed underline">on its servers</span>.</p>
+        <p class="boldFont">10. COOKIES</p>
+        <p>The Site includes sessions and cookies that record previously entered data for convenience and functionality purposes.</p>
+        <p class="boldFont">11. ACCESS AND CORRECTION OF INFORMATION</p>
+        <p>Users registered on the Site may contact <span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span> to request access to or to correct personal information held.</p>
+        <p><span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span> will provide Users will access to their personal information, including for the purposes of correcting or updating the information unless except
+            under the <span class="italicsFont">Privacy Act 1988</span>.</p>
+        <p>Users request for access to personal information will be managed within a reasonable time. In the event <span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span> refuses to provide a User with access
+            or to correct or update their personal information, the User will be notified of the reasons for such decision.</p>
+        <p class="boldFont">11. PRIVACY COMPLAINTS AND FURTHER INFORMATION</p>
+        <p>Users can contact <span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span> with their concerns about privacy and can obtain further information in relation to this Policy, or provide any feedback, by
+            contacting <span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">LeaseWallet</span> at:</p>
+        <p class="listSpaceLeft">Email: mail@<span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">leasewallet</span>.com</p>
+        <p class="listSpaceLeft">Website: <a href="#" class="colorBlue">www.<span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;">leasewallet</span>.com</a></p>
+        <p class="listSpaceLeft">Or Users can contact the Office of the Australian Information Commission <span class="colorRed underline">or the relevant legislative body in their jurisdiction.</span></p>
+
+        <p class="listSpaceLeft">The Commissioner</p>
+        <p class="listSpaceLeft">PO Box 5218</p>
+        <p class="listSpaceLeft">Sydney NSW 2001</p>
+        <p class="listSpaceLeft">Phone: 1300 363 992</p>
+        <p class="listSpaceLeft">Email: <a href="#" class="colorBlue">enquiries@oaic.gov.au.</a> <a href="#" class="colorBlue">www.oaic.gov.au</a></p>
+
+
+    </div>
+
+     <!----------------main footer------------------------ -->
+        <div class="container-fluid" id="mainFooter">
+            <div class="container" id="mainFooterPadding">
+            <div class="row">
+               <div class="col-md-3 ">
+                <p class="mainFooterHeading "><span  class="footerUnderlineBold " style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif; ">Le</span><span class="footerUnderlineLight newsletterUnderline " style="font-family: -apple-system-headline,
+                                BlinkMacSystemFont, sans-serif; ">aseWallet</span></p>
+                <p class="footerLeaseWalletContent ">Never rent a home without your <span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif; ">LeaseWallet.</span> Currently available Australia-wide.
+</p>
+                 </div>
+            
+            <!-- <div class="col-md-3 ">
+                <!-- <p class="mainFooterHeading "><span class="footerUnderlineBold ">Site</span><span class="footerUnderlineLight ">map</span></p>
+                <table class="tableAlign ">
+                    <tr>
+                        <td>Services</td>
+                        <td>Blog</td>
+                    </tr>
+                    <tr>
+                        <td style="color: white ">About Us</td>
+                        <td>Testimonial</td>
+                    </tr>
+                    <tr>
+                        <td>Our Team</td>
+                        <td>Contact Us</td>
+                    </tr>
+                    <tr>
+                        <td>Portfolio</td>
+                        
+                    </tr>
+                </table> 
+            </div> 
+            <div class="col-md-3 ">
+                 <p class="mainFooterHeading form-group "><span class="footerUnderlineBold ">Arc</span><span class="footerUnderlineLight ">hives</span></p>
+                  <table class="tableAlign ">
+                    <tr>
+                        <td>January 2015</td>
+                        <td>May 2015</td>
+                    </tr>
+                    <tr>
+                        <td>February 2015</td>
+                        <td>June 2015</td>
+                    </tr>
+                    <tr>
+                        <td>March 2015</td>
+                        <td>July 2015</td>
+                    </tr>
+                    <tr>
+                        <td>April 2015</td>
+                        
+                    </tr>
+                </table> -->
+            <!-- </div> -->
+            <div class="col-md-3 col-md-offset-6 ">
+                <p class="mainFooterHeading "><span  class="footerUnderlineBold ">Ne</span><span class="footerUnderlineLight newsletterUnderline ">ws Letter</span></p>
+                
+                <p class="footerLeaseWalletContent ">Stay up to date with useful tips, information and <span style="font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif; "">LeaseWallet</span> updates by subscribing to our Newsletter</p>
+
+                        <div>
+                            <input id="footerTextbox" type="text" placeholder="Email address" />
+                            <!--i class="fa fa-long-arrow-right fa-lg" aria-hidden="true" id="footerEmailArrow"></i-->
+                           
+                        </div>
+                <div class="newsLetterSubmitDiv">
+                     <input class="newsLetterSubmitBtn" type="submit" value="SUBMIT"/>
+                </div>
+                    </div>
+        </div>
+            </div><!end container-->
+        </div>
+        
+        <!--------------------subfooter------------------------->
+        <div class="container-fluid" id="subFooter">
+            <div class="container">
+            <div class="row">
+                
+                <div class="col-md-5 footerCopyRight">
+                    Copyright © 2017 LeaseWallet.com
+                </div>
+                <div class="col-md-5 footerCopyRight">
+                    <a class="privacyLink" href="privacy.html">Privacy Policy</a>
+                    
+                </div>
+                <div class="col-md-2">
+ <div id="socialIconDiv">
+<a href=""><i class="fa fa-facebook" id="footerFacebook"></i></a>
+<!--<a href=""><i class="fa fa-twitter" id="footerTwitter"></i></a>-->
+<a href=""><i class="fa fa-google-plus" id="footerGoogle"></i> </a>
+<!--<a href=""><i class="fa fa fa-pinterest-p" id="footerPinterest"></i></a>-->
+</div>
+                </div>
+            </div>
+        </div>
+        </div>
+</body>
+
+</html>
